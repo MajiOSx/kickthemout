@@ -1,7 +1,8 @@
-''#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -.- coding: utf-8 -.-
 # kickthemout.py
-
+#\n\t{}$ sudo python3 kickthemout.py{
+\n".format(RED, GREEN, END))
 """
 Copyright (C) 2017-18 Nikolaos Kamarinakis (nikolaskam@gmail.com) & David Schütz (xdavid@protonmail.com)
 See License at nikolaskama.me (https://nikolaskama.me/kickthemoutproject)
